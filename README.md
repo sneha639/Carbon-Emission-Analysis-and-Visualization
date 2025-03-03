@@ -16,7 +16,7 @@ b. Some highlighted features that I will use when I work with PowerBI:
 Area chart, Donut chart, Multi-row card, Clustered column chart
 Dynamic text utilizing Smart Narrative, Slicer
 
-3. About the dataset:
+2. About the dataset:
    
 There are two databaes in my project:
 
